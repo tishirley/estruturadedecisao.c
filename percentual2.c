@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-  int numero = 10;
+  int numero = 11;
 
   if (numero % 2 == 0) {
     printf("O número é par\n");
