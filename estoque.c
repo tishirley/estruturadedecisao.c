@@ -8,6 +8,6 @@ int main (){
         printf("Estoque baixo\n");
 
     }
-
+    return 0;
 
 }
